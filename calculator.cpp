@@ -4,7 +4,7 @@ int main()
 {
     setlocale(LC_ALL,"Rus");
     double a,b,c;
-    int z;
+    char z;
     cout << "Первое число: ";
     cin >> a;
     cout <<"Второе число: ";
